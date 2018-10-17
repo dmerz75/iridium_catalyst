@@ -6,4 +6,4 @@ relative_links:
   collections: true
 include:
   - README.md
-  - _drafts/Building_DataFrames.md
+  - Building_DataFrames.md

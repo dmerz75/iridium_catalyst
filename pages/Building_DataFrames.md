@@ -1,7 +1,3 @@
----
-Some content about which I am unsure on how to include.
----
-
 # DataFrame Builder
 
 ## Let's construct some sample DataFrames.

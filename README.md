@@ -14,7 +14,7 @@ for i in range(10):
 
 ## DataFrames
 - Examples
-  - [Building DataFrames](_drafts/Building_DataFrames.md)
+  - [Building DataFrames](pages/Building_DataFrames.md)
 
 - Read/Write
 - Analysis
